@@ -1,0 +1,2 @@
+Git is a version control System 
+GitHub is a web based version control system
